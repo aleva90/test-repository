@@ -1,4 +1,4 @@
-# REST API TEST
+# REST API TEST v2
 
 ## Installation
 
